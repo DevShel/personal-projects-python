@@ -1,7 +1,7 @@
 import sys
 import math
 import string
-# Given a number, find sum of its digits.
+# Practice Scenario: Given a number, find sum of its digits.
 
 digits = 237523
 

@@ -1,7 +1,7 @@
 import sys
 import math
 import string
-# Given an array (or string), the task is to reverse the array/string.
+# Practice Scenario: Given an array (or string), the task is to reverse the array/string.
 
 string = [1,2,3,4]
 
